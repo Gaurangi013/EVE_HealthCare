@@ -90,3 +90,8 @@ The project uses SQLite and SQLAlchemy with these core entities:
 - Move to a stricter role model
 - Add background jobs or audit logs
 - Replace SQLite with Postgres for production workloads
+
+- Author
+
+Gaurangi Gaur
+B.Tech Computer Science Engineering
