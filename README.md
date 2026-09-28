@@ -31,7 +31,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-4. Open docs at http://127.0.0.1:8000/docs
+4. Open docs at [http://127.0.0.1:8000/docs](http://127.0.0.1:8002/)
 
 ## API overview
 
